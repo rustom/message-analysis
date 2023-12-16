@@ -1,4 +1,3 @@
 *.pkl
-helper.py
 __pycache__
 facebook-data
